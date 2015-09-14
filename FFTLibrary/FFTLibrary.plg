@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FFTLibrary - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ylrenxd\LOCALS~1\Temp\RSP9.tmp" with contents
+[
+/compile_only /dll /libs:static /nologo /warn:nofileopt /module:"Release/" /object:"Release/" 
+"C:\DOCUMENTS AND SETTINGS\YLRENXD\MY DOCUMENTS\COMPAQ VISUAL FORTRAN\PROJECTS\FFTLibrary\FFTLibrary.f90"
+]
+Creating command line "link.exe kernel32.lib /nologo /subsystem:windows /dll /incremental:no /pdb:"Release/FFTLibrary.pdb" /machine:I386 /out:"Release/FFTLibrary.dll" /implib:"Release/FFTLibrary.lib"  ".\Release\FFTLibrary.obj" "
+<h3>Output Window</h3>
+Compiling Fortran...
+C:\DOCUMENTS AND SETTINGS\YLRENXD\MY DOCUMENTS\COMPAQ VISUAL FORTRAN\PROJECTS\FFTLibrary\FFTLibrary.f90
+Linking...
+   Creating library Release/FFTLibrary.lib and object Release/FFTLibrary.exp
+
+
+
+<h3>Results</h3>
+FFTLibrary.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
